@@ -1,13 +1,30 @@
 # Data Analysis & Story Pitch - US Government Financial Assistance Awards for Artificial Intelligence
-Analysis of dataset from usaspending.gov which lists every financial assistance award by the US government tagged with the keyword artificial intelligence
 ### By Lincoln Freedman
 ## Sourcing
+For this project I analyzed a dataset from ["usaspending.gov"](https://www.usaspending.gov/search/?hash=1f759e15d305dbdaf91a5228b721d085) which lists every financial assistance award by the US government tagged with the keyword artificial intelligence (note: this data does not include contracts). 
 
-
+### Potential Interview Contacts
+1) Sethuraman Panchanathan
+    * Phone Number: (703) 292-8000
+    * Email: spanchan@nsf.gov
+    * Panchanathan is the director of the US National Science Foundation, which is the federal agency that awarded the most money in AI related grants by a wide margin. As such, I feel that he could have some valuable things to say about where this money is going, and why it is the right place.
+2) Regina Barzilay
+    * Phone Number: (617) 258-5706
+    * Email: regina@csail.mit.edu
+    *  Barzilay is noted as a "Distinguished Professor for AI" in the MIT AI+D faculty website. Seeing as a large majority of funds were awarded to institutions of higher education, with MIT itself receiving 12 grants, I feel that speaking to an expert from this institution about how the money is used and why it is important could be very instructive. 
 ### Other Potential Sources
-
+1) ["Stanford Artificial Intelligence Index Report 2023"](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf)
+    * A very current report by a reliable source which includes data about the total money spent by the federal government on AI 
+    * Includes some demographic analyses of how various groups feel about the advance of AI
+2) ["US State Department Report on Artificial Intelligence"](https://www.state.gov/artificial-intelligence/_) 
+    * Outlines the Fed's motivation for increased expenditures on AI research grants evident in this data, especially from a foreign policy perspective
+    * Describes some legal policies which the govt. has implemented on the subject of AI
 ## Story Summary
+As the global buzz around AI technology increases, my findings show that the US federal government has been spending vastly more on AI related grants each year since 2018. Many departments of the government are involved in funding a variety of AI research and development projects in fields such as agriculture, defense, energy, and especially medicine. Approximately three quarters of these financial assistance awards are going to institutions of higher education, including private Universities, which account for more than $400 million of the ~$2 billion that have been awarded in total. <br>
 
+One danger of the rapid rise of AI technologies that has been repeatedly referenced by objectors is that it could quickly displace many working class people from their jobs while enriching a class of technocrat elites. Even as the Senate Judiciary Committee met just two months ago with OpenAI CEO Sam Altman, as well as other industry leaders and experts, to discuss the need for AI regulation, the bureaucrats in charge of awarding money for AI research may be moving in the opposite direction by investing with accelerating intensity into the development of these technologies. <br>
+
+Furthermore, the data shows that AI research grants are heavily biased towards wealthier states like Massachusetts and California compared to poorer ones like Ohio. This is unsurprising, considering that many awards are going to prestigious private Universities like MIT. This investment pattern could lead to an exacerbation of income inequality, as educated students from wealthy states are bolstered by federal money to research and develop technologies which will allow them to replace workers with machines in the coming years. I feel that this data could definitely be part of a bigger story on this topic.
 
 ## Data Analysis Process
 
