@@ -63,6 +63,7 @@ First, create a pivot table and add a total_funding_amount sorting function unde
 
 ## Data Visualization
 ![MMP7Y-expenditures-on-ai-related-grants-by-year-nbsp-](https://github.com/Linchom/J-124-Final-Project-LincolnFreedman/assets/55606828/c171e61e-38ac-4676-8c68-c1e2668b07d9)
-
+https://www.datawrapper.de/_/MMP7Y/
 
 ![9IV4A-total-funds-awarded-by-us-govt-for-ai-research-development-by-state](https://github.com/Linchom/J-124-Final-Project-LincolnFreedman/assets/55606828/4a19db73-31ec-4d94-866a-43b1e018ee7a)
+https://www.datawrapper.de/_/9IV4A/
