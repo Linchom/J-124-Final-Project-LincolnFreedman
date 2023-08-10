@@ -62,3 +62,5 @@ First, create a pivot table and add a total_funding_amount sorting function unde
 <img width="1277" alt="Screenshot 2023-08-10 044939" src="https://github.com/Linchom/J-124-Final-Project-LincolnFreedman/assets/55606828/acc64db9-58bc-4798-b2d8-bf06091d3d06">
 
 ## Data Visualization
+![9IV4A-total-funds-awarded-by-us-govt-for-ai-research-development-by-state](https://github.com/Linchom/J-124-Final-Project-LincolnFreedman/assets/55606828/4a19db73-31ec-4d94-866a-43b1e018ee7a)
+
